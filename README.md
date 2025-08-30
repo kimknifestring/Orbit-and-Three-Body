@@ -1,8 +1,8 @@
 # 행성의 운동과 삼체 문제 시뮬레이션 🪐
 **Unity & C# a N-Body Gravity Simulation Exploring Deterministic Chaos**
 
-![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity)
-![C#](https://img.shields.io/badge/C%23-11-blue?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
